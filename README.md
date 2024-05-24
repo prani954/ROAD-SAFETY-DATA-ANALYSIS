@@ -1,13 +1,13 @@
 # ROAD SAFETY DATA ANALYSIS
 - Exploratory Data Analysis and Visualization provides critical insights into the dataset by identifying patterns, relationships, and anomalies. Using various plots and statistical summaries, EDA helps in understanding the underlying structure of the data and guides informed decision-making for improving road safety measures.
 
-## Number of Vehicles and Number of Casualties
+**Number of Vehicles and Number of Casualties**
 A scatter plot visualized the relationship between the number of vehicles involved in an accident and the resulting casualties. This helps identify if accidents with more vehicles tend to have more casualties.
 
-## Casualties and Speed Limit
+**Casualties and Speed Limit**
 A scatter plot explored the impact of speed limits on casualties, differentiating between urban and rural areas. This helps understand how speed limits affect accident severity in different environments and may highlight areas for stricter speed enforcement.
 
-## Descriptive Statistics
+**Descriptive Statistics**
 Summary statistics, including mean and median, were computed for key attributes like the number of vehicles and casualties. This provides a numerical overview of typical values and variability within the dataset.
 
 ## Distribution Plots
