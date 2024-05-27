@@ -1,6 +1,6 @@
 # ROAD SAFETY DATA ANALYSIS
 
-**EDA**
+**Exploratory Data A**
 
 - Exploratory Data Analysis and Visualization provides critical insights into the dataset by identifying patterns, relationships, and anomalies. Using various plots and statistical summaries, EDA helps in understanding the underlying structure of the data and guides informed decision-making for improving road safety measures.
 
